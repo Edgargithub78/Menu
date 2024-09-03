@@ -15,6 +15,11 @@ text-decoration: none;
 font-size: 24px;
 }
 
+.logo-img {
+    width: 100px; /* Ajusta este valor según el tamaño deseado */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+
 .navlinks {
     list-style: none;
     display: flex;
